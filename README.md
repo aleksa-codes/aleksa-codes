@@ -24,8 +24,8 @@
       aria-label="View skill icons"
     >
       <img
-        src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,vite,astro,next,nodejs,express,supabase,vscode,yarn,git"
-        alt="Tech stack: HTML, CSS, Tailwind, JavaScript, TypeScript, React, Vite, Astro, Next.js, Node.js, Express, Supabase, VSCode, Yarn, Git"
+        src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,javascript,typescript,react,shadcn,astro,next,nodejs,drizzle,supabase,vscode,githubcopilot,chatgpt"
+        alt="Tech stack: HTML, CSS, Tailwind, JavaScript, TypeScript, React, ShadCN, Astro, Next.js, Node.js, Drizzle, Supabase, VSCode, GitHub Copilot, ChatGPT"
       />
     </a>
   </p>
