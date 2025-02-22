@@ -1,7 +1,5 @@
 # Hi there 👋 I'm [Aleksa](https://aleksa.codes "Visit Aleksa's website")
 
-## About Me
-
 <section aria-label="Introduction">
   Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. I aim to stay at the forefront of web development, always seeking new projects and learning opportunities to enhance my skills. My goal is to build modern, responsive websites and applications that meet my clients' needs through innovative solutions and teamwork.
 
