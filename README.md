@@ -9,21 +9,19 @@ Passionate and self-motivated full-stack web developer, eager to turn ideas into
 </div>
 
 ## Languages and Tools
+
 <p align="center">
     <a href="https://skillicons.dev" target="_blank">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,vite,astro,next,nodejs,express,supabase,vscode,yarn,git" />
     </a>
 </p>
 
-<p align="center">
-    <a href="https://discordapp.com/users/1078249969775038514" style="display: inline-block; text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/aleksa-.codes-9cf?style=flat-square&logo=discord&logoColor=ffffff&color=blue" />
+<div align="center">
+    <a href="https://discordapp.com/users/1078249969775038514" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-aleksa.codes-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://aleksa.codes" style="display: inline-block; text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/aleksa-.codes-9cf?style=flat-square&logo=googlechrome&logoColor=ffffff&color=blue" />
+    <a href="https://aleksa.codes" target="_blank">
+        <img src="https://img.shields.io/badge/Website-aleksa.codes-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=aleksa-codes&style=flat-square&color=blue" />
-    <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block; text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/Coffee-Time-9cf?style=flat-square&logo=coffeescript&color=blue" />
-    </a>
-</p>
+    <img src="https://komarev.com/ghpvc/?username=aleksa-codes&style=for-the-badge&color=7289DA" alt="Profile Views" />
+</div>
