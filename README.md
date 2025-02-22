@@ -18,10 +18,10 @@
 <section aria-label="Technical skills">
   <p align="center">
     <a
-      href="https://skillicons.dev"
+      href="https://github.com/LelouchFR/skill-icons"
       target="_blank"
       rel="noopener noreferrer"
-      aria-label="View skill icons"
+      aria-label="View skill icons repository"
     >
       <img
         src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,javascript,typescript,react,shadcn,astro,next,nodejs,drizzle,supabase,vscode,githubcopilot,chatgpt"
