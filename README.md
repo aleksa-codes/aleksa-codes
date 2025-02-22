@@ -19,8 +19,8 @@ Passionate and self-motivated full-stack web developer, eager to turn ideas into
     <a href="https://discordapp.com/users/1078249969775038514" style="display: inline-block; text-decoration: none;" target="_blank">
         <img src="https://img.shields.io/badge/aleksa-.codes-9cf?style=flat-square&logo=discord&logoColor=ffffff&color=blue" />
     </a>
-    <a href="https://aleksa.io" style="display: inline-block; text-decoration: none;" target="_blank">
-        <img src="https://img.shields.io/badge/aleksa-.io-9cf?style=flat-square&logo=microsoftedge&color=blue" />
+    <a href="https://aleksa.codes" style="display: inline-block; text-decoration: none;" target="_blank">
+        <img src="https://img.shields.io/badge/aleksa-.codes-9cf?style=flat-square&logo=microsoftedge&color=blue" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=aleksa-codes&style=flat-square&color=blue" />
     <a href="https://www.buymeacoffee.com/aleksa" style="display: inline-block; text-decoration: none;" target="_blank">
