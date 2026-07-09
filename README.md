@@ -1,6 +1,6 @@
 # Hi there 👋 I'm [Aleksa](https://aleksa.codes "Visit Aleksa's website")
 
-<img src="https://github.com/user-attachments/assets/f6942aaf-0e7f-495d-acae-cadbdb70c3a5" width="128" align="right" alt="BMO character decoration" />
+<img src="https://github.com/user-attachments/assets/f6942aaf-0e7f-495d-acae-cadbdb70c3a5" width="128" align="right" />
 
 Passionate and self-motivated full-stack web developer, eager to turn ideas into applications. I aim to stay at the forefront of web development, always seeking new projects and learning opportunities to enhance my skills. My goal is to build modern, responsive websites and applications that meet my clients' needs through innovative solutions and teamwork.
 
