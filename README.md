@@ -3,7 +3,7 @@
 ```ts
 const aleksa = {
   role: "Full-stack web developer",
-  builds: ["websites", "web apps", "SaaS products", "AI tools", "browser extensions"],
+  builds: ["websites", "web apps", "SaaS products", "AI tools"],
   status: "open to work",
 };
 ```
