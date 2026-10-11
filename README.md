@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f6942aaf-0e7f-495d-acae-cadbdb70c3a5" width="112" align="right" alt="BMO" />
+<img src="https://github.com/user-attachments/assets/f6942aaf-0e7f-495d-acae-cadbdb70c3a5" width="138" align="right" alt="BMO" />
 
 ```ts
 const aleksa = {
