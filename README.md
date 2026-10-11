@@ -8,8 +8,7 @@ const aleksa = {
 };
 ```
 
-<a href="https://aleksa.codes"><img src="https://img.shields.io/badge/aleksa.codes-30363d?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://discordapp.com/users/1078249969775038514"><img src="https://img.shields.io/badge/Discord-30363d?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+---
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,python,react,nextjs,astro,tailwindcss,shadcn,tanstack,expo,nodejs,bun,hono,socketio,postgresql,sqlite,drizzle,betterauth,polar,wordpress,cloudflare,vercel,netlify,docker,supabase,neon,githubcopilot,cursor,claude,chatgpt&perline=16&theme=light" />
