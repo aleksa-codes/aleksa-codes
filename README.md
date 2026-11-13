@@ -11,6 +11,6 @@ const aleksa = {
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,python,react,nextjs,astro,tailwindcss,shadcn,tanstack,expo,nodejs,bun,hono,socketio,postgresql,sqlite,drizzle,betterauth,polar,wordpress,cloudflare,vercel,netlify,docker,supabase,neon,githubcopilot,cursor,claude,chatgpt&perline=16&theme=light" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,python,react,nextjs,astro,tailwindcss,shadcn,tanstack,expo,nodejs,bun,hono,socketio,postgresql,sqlite,drizzle,betterauth,polar,wordpress,cloudflare,vercel,netlify,docker,supabase,neon,githubcopilot,cursor,claude,chatgpt&perline=16" alt="Tech stack" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/tech-stack-light.svg" />
+  <img src="./assets/tech-stack-dark.svg" alt="Tech stack" />
 </picture>
