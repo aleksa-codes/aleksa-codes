@@ -1,4 +1,6 @@
-<img src="./assets/bmo.png" width="138" align="right" alt="BMO" />
+<div>
+  <img src="./assets/bmo.png" width="138" align="right" alt="BMO" />
+</div>
 
 ```ts
 const aleksa = {
